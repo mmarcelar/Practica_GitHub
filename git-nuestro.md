@@ -1,4 +1,4 @@
-# Git nuestro
+# Rezo por Git 
 
 *Git* nuestro que estás en los repos
 
